@@ -8,3 +8,15 @@
 2026-04-26 20:42:05,178 - data_ingestion - DEBUG - Data preprocessing completed
 2026-04-26 20:42:05,605 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
 2026-04-26 20:42:05,605 - data_ingestion - INFO - Data ingestion pipeline completed successfully
+2026-04-29 21:53:25,333 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2026-04-29 21:53:25,345 - data_ingestion - DEBUG - Data preprocessing completed
+2026-04-29 21:53:25,387 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-04-29 21:53:25,388 - data_ingestion - INFO - Data ingestion pipeline completed successfully
+2026-04-29 21:56:34,521 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2026-04-29 21:56:34,522 - data_ingestion - DEBUG - Data preprocessing completed
+2026-04-29 21:56:34,580 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-04-29 21:56:34,581 - data_ingestion - INFO - Data ingestion pipeline completed successfully
+2026-04-29 22:20:30,763 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2026-04-29 22:20:30,763 - data_ingestion - DEBUG - Data preprocessing completed
+2026-04-29 22:20:30,779 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-04-29 22:20:30,779 - data_ingestion - INFO - Data ingestion pipeline completed successfully

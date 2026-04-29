@@ -1,0 +1,4 @@
+2026-04-28 23:50:35,482 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4152, 51)
+2026-04-28 23:50:35,498 - model_building - DEBUG - Training model with 4152 samples
+2026-04-28 23:50:36,010 - model_building - DEBUG - Model training completed
+2026-04-28 23:50:36,081 - model_building - DEBUG - Model saved to models/model.pkl
